@@ -22,7 +22,7 @@ a:hover, a:active, a:focus {
 .btn {
     border: 1px solid #ADADAD;
     border-radius: 4px;
-    color: #ADADAD;
+    color: #E5007E;
     cursor: pointer;
     display: inline-block;
     font-size: 0.85em;
@@ -54,7 +54,7 @@ a:hover, a:active, a:focus {
     bottom: 0;
     height: 116px;
     left: 0;
-    color: #ffffff;
+    color: #E5007E;
     margin: auto;
     position: absolute;
     right: 0;
