@@ -22,7 +22,7 @@ a:hover, a:active, a:focus {
 .btn {
     border: 1px solid #ADADAD;
     border-radius: 4px;
-    color: #4A4C54;
+    color: #ADADAD;
     cursor: pointer;
     display: inline-block;
     font-size: 0.85em;
@@ -82,7 +82,7 @@ a:hover, a:active, a:focus {
 }
 
 #start:target {
-    background: #2C3E50;
+    background: #E5007E;
     color: #fff;
 }
 
