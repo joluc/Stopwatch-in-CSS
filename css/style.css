@@ -6,7 +6,7 @@
 
 body {
     background: rgb(236, 240, 241);
-    color: #4A4C54;
+    color: #ffffff;
     transition: background linear .5s;
     -webkit-transition: background linear .5s;
 }
