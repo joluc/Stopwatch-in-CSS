@@ -97,3 +97,43 @@ p {
 #start:target .btn:hover {
     color: #D6D6D6;
 }
+h1 {
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+h3 {
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+p {
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 19.99px;
+}
+blockquote {
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+	font-size: 21px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 29.99px;
+}
+pre {
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 18.57px;
+}
