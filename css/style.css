@@ -66,7 +66,9 @@ a:hover, a:active, a:focus {
 #main a {
     text-transform: uppercase;
 }
-
+p {
+    font-family: "Times New Roman", Times, serif;
+} 
 #counter {
     font-size: 76px;
     line-height: 1em;
