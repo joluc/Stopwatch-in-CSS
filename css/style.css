@@ -40,6 +40,7 @@ a:hover, a:active, a:focus {
 
 #twitter {
     bottom: 0;
+ 
     right: 0;
     position: absolute;
 }
@@ -95,4 +96,7 @@ p {
 
 #start:target .btn:hover {
     color: #D6D6D6;
+}
+* {
+    font: Verdana, Arial, 'sans-serif' !important;/* <-- fonts */
 }
