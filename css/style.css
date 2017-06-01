@@ -5,7 +5,7 @@
 /* Layout */
 
 body {
-    background: #E5007E;
+    background: #ffffff;
     color: #ffffff;
     transition: background linear .5s;
     -webkit-transition: background linear .5s;
@@ -70,6 +70,7 @@ a:hover, a:active, a:focus {
     font-size: 76px;
     line-height: 1em;
     height: 1em;
+    color: #E5007E;
 }
 
 .divider {
