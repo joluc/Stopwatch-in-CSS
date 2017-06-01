@@ -5,7 +5,7 @@
 /* Layout */
 
 body {
-    background: rgb(236, 240, 241);
+    background: #E5007E;
     color: #ffffff;
     transition: background linear .5s;
     -webkit-transition: background linear .5s;
