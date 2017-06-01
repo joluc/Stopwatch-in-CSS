@@ -83,7 +83,7 @@ a:hover, a:active, a:focus {
 }
 
 #start:target {
-    background: #E5007E;
+    background: #ffffff;
     color: #fff;
 }
 
